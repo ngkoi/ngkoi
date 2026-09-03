@@ -43,7 +43,6 @@ i make cool ios tweaks, building everything that brings ease of use in people's 
   <img src="https://img.shields.io/badge/Ghidra-333333?style=flat-square&logo=nsa&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Hopper_Disassembler-2C3E50?style=flat-square&logo=apple&logoColor=white" alt="Hopper" />
   <img src="https://img.shields.io/badge/LLDB-4B4B4B?style=flat-square&logo=gnu&logoColor=white" alt="LLDB" />
-  <img src="https://img.shields.io/badge/Objection-0A84FF?style=flat-square" alt="Objection" />
 </p>
 
 **scripting & automation**
