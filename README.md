@@ -13,7 +13,7 @@
 
 ---
 
-- if you're finding my tweak, it is on [dylv's repo](https://winaviation.github.io/repo). Please try his tweaks too.
+- if you're finding my tweak, it is on [dylv's repo](https://winaviation.github.io/repo). Please try his tweaks too. Updates are in the Discord server.
 
 ---
 
@@ -25,7 +25,6 @@ i make cool ios tweaks, building everything that will bring ease of use to every
 - **MCU & IoT:** i'm actually a former hardware and software engineer for MCUs, SBCs.
 - **AI fine-tuning**: i've made some fine-tuned AI models, and it worked out so well, but sadly my wallet said no. 
 
-<sup>im also passionate in mechanic, cars, motorbikes, aviations, electronics and many shits... well yeah cuz i fixed many things (but not my life problems)</sup>
 
 ---
 
